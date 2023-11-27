@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Akshat Iyer! I'm a junior at the University of Pennsylvania studying Computer Science with a concentration in Artificial Intelligence. I'm also a music minor!
+
+I don't have a lot of time to work on my personal projects due to the sheer amount of schoolwork and clubwork that I have, so that's why I dont have too many commits
+in the last couple of months.
+
+Expect a lot more during the winter break season; I'm learning android development and am currently working on a Linktree-like app that utilizes QR codes!
+
+
+
 <!--
 **AkshatIyer/AkshatIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
