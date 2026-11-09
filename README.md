@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 I'm Akshat Iyer! I'm a Software Development Engineer at Amazon, and am a recent graduate from the University of Pennsylvania with a Bachelors in Computer Science. I also have a music minor, and love music production!
 
